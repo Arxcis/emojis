@@ -1,6 +1,6 @@
 # Emojis
 
-Dette er en python-modul med emojifunksjoner.
+En python-modul med emojifunksjoner.
 
 Eksempel på bruk:
 ```py
